@@ -40,7 +40,7 @@
   Albany, New York Area
   September 2015 - Present
 
-  *** Responsabilities:
+  *** Responsibilities:
   - Implement, develop and maintain software solutions for chemical industry
   - Share data with other companies at the industrial level using industry standards
   - Help comapanies to achieve compliance on chemical regulations
@@ -86,7 +86,7 @@
   California (via Softtek)
   June 2009 - May 2010
 
-  *** Responsabilities:
+  *** Responsibilities:
   - Migrate Java system to .Net
   - Develop MVC.Net cross-compatible web page.
   - Present valuable charts to our customers.
@@ -110,7 +110,7 @@
   Boston city (via Softtek)
   July 2008 - July 2009
 
-  *** Responsabilities:
+  *** Responsibilities:
   - Create components using WPF for a windows app.
   - Have high accuracy running code through unit testing.
   - Present valuable charts to our customers.
@@ -132,7 +132,7 @@
   Puerto Vallarta Jalisco, Mexico.
   July 2007 - June 2008
 
-  *** Responsabilities:
+  *** Responsibilities:
   - Maitain existing web page for toursim.
   - Make sure payments and booking of hotel/tour reservations work properly.
   - Develope new modules for real state section.
