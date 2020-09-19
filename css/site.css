@@ -1,7 +1,9 @@
 /* Custom page CSS
 -------------------------------------------------- */
 /* Not required for template or sticky footer method. */
-
+body {
+  background-color: darkred;
+}
 .container {
   padding-top: 25px;
 }
