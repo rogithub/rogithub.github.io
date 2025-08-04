@@ -1,79 +1,73 @@
-
 # Rodrigo Jiménez
-**Software developer**
+**Senior Software Engineer**
 
-## PROFILE
+[LinkedIn](https://www.linkedin.com/in/romx) | [GitHub](https://github.com/rogithub) | [Stack Overflow](https://stackoverflow.com/users/146560/ro) | [Plural sight](https://app.pluralsight.com/profile/rodrigo-jimenez-16) | [Email](mailto:correo.rodrigo@gmail.com)
 
-Full-stack developer with over 10 years of experience in the .NET framework. My background includes object-oriented programming, functional programming, design patterns, microservices, containers, virtualization, and networking.
+---
 
-## TECHNICAL SKILLS
+### ► Profile
 
-### TECHNOLOGIES:
-* C#
-* Javascript
-* Typescript
-* SQL
-* NodeJs
+Senior Full-Stack Engineer with over 10 years of experience specializing in the .NET ecosystem and building scalable, cloud-native applications. Proven expertise in migrating legacy systems to modern microservices architectures and optimizing database performance for high-traffic environments. Passionate about clean code, design patterns, and delivering robust software solutions.
 
-### CERTIFICATIONS:
-* Programming in HTML5 with JavaScript and CSS3
-* [Plural sight trainings](https://app.pluralsight.com/profile/rodrigo-jimenez-16)
+---
 
-## WORK EXPERIENCE
+### ► Technical Skills
 
-### Brierley Customer Loyalty Solutions & Consulting (JAN 2021-TODAY)
-**Software Developer**
+| Category          | Technologies                                             |
+| ----------------- | -------------------------------------------------------- |
+| **Languages**     | C#, JavaScript, TypeScript, SQL, PHP                     |
+| **Frameworks**    | .NET (Framework, Core, MVC), Node.js                     |
+| **Cloud & DevOps**| AWS Lambda, Microservices, REST APIs, WCF                |
+| **Databases**     | Oracle, Microsoft SQL Server                             |
+| **Frontend**      | Angular, Knockout.js, jQuery, HTML5, CSS3, WPF           |
+| **Practices**     | OOP, Functional Programming, Design Patterns, TDD        |
 
-Responsible for programming and monitoring promotions, rewards, and coupons, and sending customer communications via SMS/Email for Brierley's clients. Utilized Oracle database for data storage and wrote complex queries to retrieve transactional information, ensuring correct execution of promotions. Handled adjustments and customizations through extension points, primarily using the .NET technology stack. Sending communications through API using AWS lambda functions programmed using NodeJS.
+---
 
-**Technologies & Tools:** AWS Lambda, Nodejs, Oracle, .Net.
+### ► Professional Experience
 
-### UL Project (SEP 2015-DEC 2020)
-**Software Developer**
+**Brierley Customer Loyalty Solutions & Consulting** (Jan 2021 - Present)
+*Senior Software Developer*
+- Engineered and maintained a promotions and rewards engine for major retail clients, processing millions of transactions and ensuring high availability.
+- Developed and deployed serverless AWS Lambda functions using Node.js to automate customer communications (SMS/Email), significantly reducing manual overhead.
+- Authored complex Oracle SQL queries and stored procedures to analyze transactional data, directly supporting the accurate execution of loyalty campaigns.
+- **Technologies:** .NET, Node.js, AWS Lambda, Oracle
 
-Developed data entry software for capturing and sharing chemical information at an industry level. Extensively used Knockout.js, .NET MVC, Web Services, and XML transformations for data sharing.
+**UL Project** (Sep 2015 - Dec 2020)
+*Software Developer*
+- Led the development of a critical data entry and management application for the chemical industry, enabling the secure sharing of regulatory information.
+- Architected the front-end using Knockout.js and TypeScript, creating a responsive and intuitive user interface for complex data manipulation.
+- Implemented robust XML/XSLT transformations to ensure seamless data interchange between disparate systems.
+- **Technologies:** .NET MVC, TypeScript, Knockout.js, XML/XSLT, Oracle, SQL
 
-**Technologies & Tools:** .Net MVC, JavaScript, TypeScript, XML, XSLT, SQL, Oracle, Knockoutjs..
+**The Wercs Ltd. WERCSmart** (May 2010 - Sep 2015)
+*Software Developer*
+- Developed and scaled a compliance software suite for the chemical industry, used by global clients to manage regulatory data.
+- Built and consumed RESTful web services to integrate with third-party systems, enhancing data flow and interoperability.
+- Played a key role in the internationalization of the main software product, contributing to its successful deployment in over 50 languages.
+- **Technologies:** .NET, JavaScript, Knockout.js, jQuery, MS SQL, Oracle
 
-### The Wercs Ltd. WERCSmart (MAY 2010- SEP 2015)
-**Software Developer**
+**Quantuvis Consulting** (Jun 2009 – May 2010)
+*Software Developer*
+- Successfully executed a full migration of the company's flagship platform from a legacy Java system to a modern .NET MVC 1.0 architecture.
+- Developed a cross-browser compatible web application with advanced data visualization features, enabling clients to perform competitive analysis.
+- **Technologies:** .NET MVC, Java, jQuery, SQL
 
-Developed and maintained software for the chemical industry using .NET, MS SQL, and Oracle SQL. Created web services to interact with other companies, web pages, and software to design documents related to chemical regulatory compliance. Contributed to software products translated into over 50 languages.
+**GMO LLC Investment and Assets Management** (Jul 2008 – Jun 2009)
+*Software Developer*
+- Built high-performance UI components for a WPF desktop application used in real-time investment management.
+- Designed and implemented a multithreaded architecture to handle real-time data streams from WCF services, ensuring high accuracy for critical financial transactions.
+- **Technologies:** .NET, WCF, WPF, SQL
 
-**Technologies & Tools:** .NET, SQL, Oracle, JavaScript, Knockoutjs, jQuery.
+---
 
-### Quantuvis Consulting Web Site (JUN 2009– MAY 2010)
-**Software Developer**
+### ► Education
 
-Migrated the Quantuvis system from Java to .NET MVC 1.0. Developed a cross-browser web page using ASP.NET MVC that allowed companies to compare themselves with competitors, adjust milestones, and improve their competitive edge. Post-migration, developed new modules and user controls. Project requirements included cross-browser support and extensive use of charts for data visualization.
+**Universidad de Guadalajara, Jalisco, Mexico**
+*Bachelor's Degree in Telecommunications Engineering (2008)*
 
-**Technologies & Tools:** .Net MVC, Java, jQuery, SQL.
+---
 
-### GMO LLC Investment and Assets Management Shares Management Software (JUL 2008– JUN 2009)
-**Software Developer**
+### ► Photography & Travel
 
-Developed components and controls for a rich client application using WPF for the front end and WCF for the back end. Designed the application to be multithreaded for real-time data display. The software managed investments requiring high accuracy for client share trading. Rigorous testing was implemented to ensure the correct status of transactions was displayed.
-
-**Technologies & Tools:** WCF, WPF, .Net, SQL.
-
-### Vallarta Online Vallarta Online Web Page (JUL 2007– JUN 2008)
-**Software Developer**
-
-Developed a tourism-oriented website for handling reservations for tours, hotel rooms, and car rentals. The site's design followed Amazon's web interface guidelines at the time, suggesting points of interest in the Puerto Vallarta bay area.
-
-**Technologies & Tools:** Dotnet, javascript, php, SQL.
-
-## EDUCATION
-
-**Universidad de Guadalajara, Jalisco, Mexico** Bachelor's Degree in Telecommunications Engineering (2008)
-
-## Contact
-* [✉️ email](mailto:correo.rodrigo@gmail.com)
-* github [@rogithub](https://github.com/rogithub)
-* stackoverflow [@ro](https://stackoverflow.com/users/146560/ro)
-* linkedin [romx](https://www.linkedin.com/in/romx)
-
-## Travel
-* [@ro-mx](https://www.flickr.com/photos/ro-mx)
-* [@ro-mx-1](https://www.flickr.com/photos/ro-mx-1)
-* [ro-mx](https://500px.com/p/ro-mx)
+[@ro-mx](https://www.flickr.com/photos/ro-mx) | [@ro-mx-1](https://www.flickr.com/photos/ro-mx-1) | [500px](https://500px.com/p/ro-mx)
