@@ -67,6 +67,7 @@ Developed a tourism-oriented website for handling reservations for tours, hotel 
 
 **Universidad de Guadalajara, Jalisco, Mexico** Bachelor's Degree in Telecommunications Engineering (2008)
 
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" height="3 />
 ## Contact
 * [✉️ email](mailto:correo.rodrigo@gmail.com)
 * github [@rogithub](https://github.com/rogithub)
