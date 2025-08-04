@@ -1,7 +1,7 @@
 # _config.yml
 # Elige un tema de los soportados por GitHub Pages.
 # 'jekyll-theme-minimal' es uno muy limpio y popular para empezar.
-theme: jekyll-theme-minimal
+theme: Lanyon
 
 # Título y descripción de tu sitio (aparecerá en la pestaña del navegador, etc.)
 title: Rodrigo Jiménez - Software Developer
