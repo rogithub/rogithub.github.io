@@ -71,3 +71,6 @@ Senior Full-Stack Engineer with over 10 years of experience specializing in the 
 ### ► Photography & Travel
 
 [@ro-mx](https://www.flickr.com/photos/ro-mx) | [@ro-mx-1](https://www.flickr.com/photos/ro-mx-1) | [500px](https://500px.com/p/ro-mx)
+
+### ► Download
+[Resume](https://raw.githubusercontent.com/rogithub/rogithub.github.io/refs/heads/master/rodrigo-jimenez-resume.pdf)
