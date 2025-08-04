@@ -2,7 +2,7 @@
 # Elige un tema de los soportados por GitHub Pages.
 # 'jekyll-theme-minimal' es uno muy limpio y popular para empezar.
 # https://pages.github.com/themes/
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/dinky@v0.2.0
 plugins:
   - jekyll-remote-theme
 
