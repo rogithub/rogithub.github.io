@@ -1,7 +1,7 @@
 # Rodrigo Jiménez
 **Senior Software Engineer**
 
-[LinkedIn](https://www.linkedin.com/in/romx) | [GitHub](https://github.com/rogithub) | [Stack Overflow](https://stackoverflow.com/users/146560/ro) | [Plural sight](https://app.pluralsight.com/profile/rodrigo-jimenez-16) | [Email](mailto:correo.rodrigo@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/romx) | [Stack Overflow](https://stackoverflow.com/users/146560/ro) | [Plural sight](https://app.pluralsight.com/profile/rodrigo-jimenez-16) | [Email](mailto:correo.rodrigo@gmail.com)
 
 ---
 
