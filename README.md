@@ -17,7 +17,7 @@ Full-stack developer with over 10 years of experience in the .NET framework. My 
 
 ### CERTIFICATIONS:
 * Programming in HTML5 with JavaScript and CSS3
-* [Plural sight trainings] (https://app.pluralsight.com/profile/rodrigo-jimenez-16)
+* [Plural sight trainings](https://app.pluralsight.com/profile/rodrigo-jimenez-16)
 
 ## WORK EXPERIENCE
 
@@ -69,11 +69,11 @@ Developed a tourism-oriented website for handling reservations for tours, hotel 
 
 ## Contact
 * ✉️ correo.rodrigo@gmail.com
-* github [@rogithub] (https://github.com/rogithub)
-* stackoverflow [@ro] (https://stackoverflow.com/users/146560/ro)
-* linkedin [romx] (https://www.linkedin.com/in/romx)
+* github [@rogithub](https://github.com/rogithub)
+* stackoverflow [@ro](https://stackoverflow.com/users/146560/ro)
+* linkedin [romx](https://www.linkedin.com/in/romx)
 
 ## Travel
-* [@ro-mx] (https://www.flickr.com/photos/ro-mx)
-* [@ro-mx-1] (https://www.flickr.com/photos/ro-mx-1)
-* [ro-mx] (https://500px.com/p/ro-mx)
+* [@ro-mx](https://www.flickr.com/photos/ro-mx)
+* [@ro-mx-1](https://www.flickr.com/photos/ro-mx-1)
+* [ro-mx](https://500px.com/p/ro-mx)
