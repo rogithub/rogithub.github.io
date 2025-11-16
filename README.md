@@ -51,7 +51,7 @@ Passionate about clean code, design patterns, infrastructure as code, and delive
 
 ---
 
-### UL Project
+### UL WERCSmart Portal
 **Software Developer** | *Sep 2015 - Dec 2020*
 
 - Led the development of a critical data entry and management application for the chemical industry, enabling the secure sharing of regulatory information.
